@@ -1,4 +1,4 @@
-# Conact-lsit
+# Conact-list
 A user can save details of multiple persons
 
 This proect is bulid in express and mongo 
